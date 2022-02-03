@@ -1,0 +1,59 @@
+
+g
+java:S1301Õ"KReplace this "switch" statement by "if" statements to increase readability.(Åİ¶Ìøÿÿÿÿ
+}
+java:S1192¯"aDefine a constant instead of duplicating this literal "Number can have maximum 9 digits" 3 times.(èÉÑ‚üÿÿÿÿ
+E
+java:S1066İ
+"/Merge this if statement with the enclosing one.(ÀÑ¹s
+t	java:S135Í"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÏü«ùÿÿÿÿ
+g	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¤¯¡
+h
+java:S2259ì"L"NullPointerException" will be thrown when invoking method "hex2AsciiStr()".(ÓôìÖşÿÿÿÿ
+v
+java:S1149“"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‘Ìí
+3
+java:S1118-"Hide this public constructor.(ÕÜÊÃ
+@
+java:S23864"%Make member "hexStrings" "protected".(¤™Ú×øÿÿÿÿ
+P
+java:S4719B":Replace Charset.forName() call with StandardCharsets.UTF_8(¬¸Ø
+=
+java:S1168Î"&Return an empty array instead of null.(¥¹ï
+R	java:S125ë"<This block of commented-out lines of code should be removed.(Ï¼™ì
+N
+java:S1135Ö"2Complete the task associated to this TODO comment.(äğú¢ÿÿÿÿÿ
+[
+java:S3358"DExtract this nested ternary operation into an independent statement.(ğí•Ì
+`
+java:S3358¡"DExtract this nested ternary operation into an independent statement.(õû¨İüÿÿÿÿ
+`
+java:S3358É"DExtract this nested ternary operation into an independent statement.(Õêñ€ûÿÿÿÿ
+[
+java:S3358ß"DExtract this nested ternary operation into an independent statement.(…ãëÔ
+“
+java:S1130€"wRemove the declaration of thrown exception 'com.example.utils.ISOException', as it cannot be thrown from method's body.(×Ïâ¡øÿÿÿÿ
+g	java:S128§"LEnd this switch case with an unconditional break, return or throw statement.(Èäîüÿÿÿÿ
+=
+java:S1659×"!Declare "end" on a separate line.(¥ªØ÷ùÿÿÿÿ
+=
+java:S1659ã"!Declare "len" on a separate line.(Åƒ¥üÿÿÿÿ
+=
+java:S1659ö"!Declare "len" on a separate line.(Åƒ¥üÿÿÿÿ
+=
+java:S1659‡"!Declare "len" on a separate line.(Åƒ¥üÿÿÿÿ
+=	java:S131Õ""Add a default case to this switch.(Åİ¶Ìøÿÿÿÿ
+“
+java:S1130	"wRemove the declaration of thrown exception 'com.example.utils.ISOException', as it cannot be thrown from method's body.(øØæúüÿÿÿÿ
+“
+java:S1130±	"wRemove the declaration of thrown exception 'com.example.utils.ISOException', as it cannot be thrown from method's body.(×ŒºÈùÿÿÿÿ
+=
+java:S1168ï	"&Return an empty array instead of null.(¥¹ï
+=
+java:S1168®
+"&Return an empty array instead of null.(¥¹ï
+S
+java:S4719¸"<Replace charset name argument with StandardCharsets.US_ASCII(”ËÆÜ
+W	java:S125º"<This block of commented-out lines of code should be removed.(ÜîÉşÿÿÿÿ
+e
+java:S1871Ò"NThis branch's code block is the same as the block for the branch on line 1487.(ò¹²

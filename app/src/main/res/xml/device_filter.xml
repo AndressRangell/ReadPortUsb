@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingDefaultResource">
+    <usb-device vendor-id="26728" product-id="1536" />
+    <usb-device vendor-id="1423" product-id="25446" />
+    <usb-device vendor-id="3034" product-id="33106" />
+    <usb-device vendor-id = "1234" product-id = "5678" />
+</resources>

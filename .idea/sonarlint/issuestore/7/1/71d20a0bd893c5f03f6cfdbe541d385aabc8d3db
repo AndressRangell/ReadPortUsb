@@ -1,0 +1,49 @@
+
+
+java:S1319C"zThe type of the "mensajeRecibido" object should be an interface such as "List" rather than the implementation "ArrayList".(ÒÙ„æ
+I
+java:S1444"3Make this "public static comercioCajas" field final(›˜„Ú
+k	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿”íâıÿÿÿÿ
+f	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦÷Ş
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È×üÿÿÿÿÿ
+o
+java:S1104"YMake comercioCajas a static final constant or non-public and provide accessors if needed.(›˜„Ú
+@
+java:S3010*"*Remove this assignment of "comercioCajas".(Òº¹ˆ
+Q	java:S125("<This block of commented-out lines of code should be removed.(õØ„³
+H
+java:S1135("2Complete the task associated to this TODO comment.(õØ„³
+>	java:S108.")Either remove or fill this block of code.(å¥‡
+P	java:S125D"<This block of commented-out lines of code should be removed.(„ƒ
+g
+java:S1871K"LThis branch's code block is the same as the block for the branch on line 73.(âôú±ùÿÿÿÿ
+Q	java:S125R"<This block of commented-out lines of code should be removed.(³´—
+V	java:S125^"<This block of commented-out lines of code should be removed.(Û·ÎŸÿÿÿÿÿ
+Q	java:S125a"<This block of commented-out lines of code should be removed.(â¬å
+;
+java:S2116n"%Use "Arrays.toString(array)" instead.(òØºè
+Q	java:S125o"<This block of commented-out lines of code should be removed.(İŠÍÔ
+J
+java:S2209p"5Change this instance-reference to a static reference.(Ã»£D
+V	java:S125s"<This block of commented-out lines of code should be removed.(ïíŸÄÿÿÿÿÿ
+<
+java:S2116„"%Use "Arrays.toString(array)" instead.( ùœğ
+R	java:S125…"<This block of commented-out lines of code should be removed.(İŠÍÔ
+L
+java:S2209†"5Change this instance-reference to a static reference.(¢Õÿ¢
+R	java:S125‡"<This block of commented-out lines of code should be removed.(ÏÓÖ³
+W	java:S125‰"<This block of commented-out lines of code should be removed.(êÜ¿†ÿÿÿÿÿ
+d	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŸ‡ğ
+W	java:S125«"<This block of commented-out lines of code should be removed.(Œ¸òäşÿÿÿÿ
+R	java:S125ä"<This block of commented-out lines of code should be removed.(šş
+W	java:S125û"<This block of commented-out lines of code should be removed.(Ä³ñîşÿÿÿÿ
+R	java:S125‹"<This block of commented-out lines of code should be removed.(•ïò¢
+W	java:S125›"<This block of commented-out lines of code should be removed.(ğ‡—ùÿÿÿÿ
+W	java:S125«"<This block of commented-out lines of code should be removed.(‹¥§…ıÿÿÿÿ
+[
+java:S1874½"?Remove this use of "SCREEN_BRIGHT_WAKE_LOCK"; it is deprecated.(Û”©Øÿÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(ç™š­ùÿÿÿÿ
+E
+java:S1068"*Remove this unused "socket" private field.(Å’¬Úşÿÿÿÿ
+E
+java:S1144".Remove this unused private "enviarACK" method.(¦†ÖÙ

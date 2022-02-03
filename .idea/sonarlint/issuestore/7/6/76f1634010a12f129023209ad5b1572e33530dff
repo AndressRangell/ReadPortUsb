@@ -1,0 +1,76 @@
+
+˜
+java:S1319"zThe type of the "mensajeRecibido" object should be an interface such as "List" rather than the implementation "ArrayList".(ÒÙ„æ8ñòÉ¾¨/
+
+java:S1319Ã"zThe type of the "mensajeRecibido" object should be an interface such as "List" rather than the implementation "ArrayList".(‡Ü“¢ıÿÿÿÿ8ñòÉ¾¨/
+i
+java:S1192¯"FDefine a constant instead of duplicating this literal "COM15" 3 times.(öÓÌûÿÿÿÿ8òòÉ¾¨/
+>
+java:S1643l"Use a StringBuilder instead.(ü†§˜ıÿÿÿÿ8ôšÑÀ¥/
+:
+java:S1643Ç"Use a StringBuilder instead.(Ğè†”8ôòÉ¾¨/
+:
+java:S1643Ó"Use a StringBuilder instead.(Ğè†”8ôòÉ¾¨/
+`
+java:S1155p">Use isEmpty() to check whether the collection is empty or not.(å»Ùİûÿÿÿÿ8ùšÑÀ¥/
+\
+java:S1155Å">Use isEmpty() to check whether the collection is empty or not.(Òß†Î8õòÉ¾¨/
+\
+java:S1155Ñ">Use isEmpty() to check whether the collection is empty or not.(Òß†Î8öòÉ¾¨/
+s	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿”íâıÿÿÿÿ8öòÉ¾¨/
+n	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦÷Ş8öòÉ¾¨/
+s	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È×üÿÿÿÿÿ8öòÉ¾¨/
+J
+java:S1604r"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ8×ÇÂ¾¨/
+E
+java:S1604["(Make this anonymous inner class a lambda(ÉãÃ®8øòÉ¾¨/
+k
+java:S2259X"IA "NullPointerException" could be thrown; "mSerialPort" is nullable here.(ÿñËøùÿÿÿÿ8€›ÑÀ¥/
+Y
+java:S2589Y"7Remove this expression which always evaluates to "true"(¬«™…üÿÿÿÿ8†›ÑÀ¥/
+P
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+N
+java:S1128!",Remove this unused import 'java.util.Timer'.(†£ñáÿÿÿÿÿ8ˆ›ÑÀ¥/
+N
+java:S1128"1Remove this unused import 'org.w3c.dom.Document'.(Á§²“8á¬º¾¨/
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8ÿÉíÀ¥/
+Q
+java:S1128"4Remove this unused import 'org.xml.sax.InputSource'.(”íÍ¤8á¬º¾¨/
+O
+java:S1128
+"-Remove this unused import 'android.util.Xml'.(ğ›¶Ûüÿÿÿÿ8á¬º¾¨/
+G
+java:S1128"1Remove this unused import 'android.os.AsyncTask'.(À»¥—
+U
+java:S1128"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ8á¬º¾¨/
+d
+java:S1128"BRemove this unused import 'org.xmlpull.v1.XmlPullParserException'.(ã·§Çşÿÿÿÿ8€ÊíÀ¥/
+N
+java:S1128"1Remove this unused import 'java.io.StringReader'.(¡Ö£8â¬º¾¨/
+b
+java:S1128"@Remove this unused import 'org.xmlpull.v1.XmlPullParserFactory'.(Öª‚ûÿÿÿÿ8€ÊíÀ¥/
+m
+java:S1128%"KRemove this unused import 'javax.xml.parsers.ParserConfigurationException'.(ûıƒøÿÿÿÿ8íîÀ¥/
+W
+java:S1128"5Remove this unused import 'org.xml.sax.SAXException'.(ü…ãşÿÿÿÿ8íîÀ¥/
+`
+java:S1128#">Remove this unused import 'javax.xml.parsers.DocumentBuilder'.(ƒ”¯¹ùÿÿÿÿ8íîÀ¥/
+g
+java:S1128$"ERemove this unused import 'javax.xml.parsers.DocumentBuilderFactory'.(»·±Ñüÿÿÿÿ8â¬º¾¨/
+t
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¨Œşÿÿÿÿ8™›ÑÀ¥/
+I
+java:S1602‹",Remove useless curly braces around statement(Äån8ŒóÉ¾¨/
+^	java:S125£"<This block of commented-out lines of code should be removed.(¹ò‘Åøÿÿÿÿ8óÉ¾¨/
+Y	java:S125§"<This block of commented-out lines of code should be removed.(“ŞŠ¡8óÉ¾¨/
+Y	java:S125»"<This block of commented-out lines of code should be removed.(â¬å8óÉ¾¨/
+^	java:S125½"<This block of commented-out lines of code should be removed.(ÅœıÌşÿÿÿÿ8‘óÉ¾¨/
+k	java:S100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚŸ‡ğ8”óÉ¾¨/
+H
+java:S10683"+Remove this unused "message" private field.(Éè¯8À›ÑÀ¥/
+R
+java:S1144„"4Remove this unused private "showAlertDialog" method.(Ä·ö¾8•óÉ¾¨/
+T
+java:S1144Ï"1Remove this unused private "obtenerAscii" method.(Ë§‚üøÿÿÿÿ8•óÉ¾¨/

@@ -1,0 +1,46 @@
+apply plugin: 'com.android.library'
+repositories {
+    flatDir { dirs 'libs' } // 引入AAR
+}
+android {
+    compileSdkVersion 29
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        minSdkVersion 22
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            //          minifyEnabled false
+            //         minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main {
+            aidl.srcDirs = ['src']
+        }
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:support-v4:27.1.1'
+    implementation 'com.github.zhou256bug:android-ninekeyboard-msater:v1.2'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    compileOnly files('external/9220sdk.jar')
+
+}
